@@ -1,0 +1,1 @@
+# Basic GitHub Actions CI pipeline that runs on every push to the repository. It checks out the code, sets up Python, installs dependencies, and runs tests.
